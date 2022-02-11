@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(20, 22, 22) ;
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    display:flex;
+    width: 900px;
+    margin:auto;
+    margin-top: 120px;
+    padding : 20px;S
+
+}
+
+
+.container1{
+    display:flex;
+    color:white;
+    border: solid 1px gray;
+    margin:auto;
+    margin-top: 80px;
+    padding : 20px;S
+
+}
+
+.container1 img{
+    height: 100px;
+    
+}
+
+.box{
+    
+    width:150px;
+    padding: 20px;
+    
+}
+
+p>a{
+    color: rgb(17, 226, 17);  
+}
